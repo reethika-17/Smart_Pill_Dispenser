@@ -15,3 +15,4 @@ Arduino Uno, Servo Motor, 16×2 LCD, Push Button, LED, Buzzer, Breadboard.
 
 ## Simulation
 Circuit and code tested using Tinkercad.
+https://www.tinkercad.com/things/4MLkYpiT12r-scintrahackathonpilldispenser
